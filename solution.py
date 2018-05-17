@@ -29,7 +29,7 @@ for j in range(1,N):
 		temp_health=tempx
 		temp_injury=tempy	
 print(max_number_sofar)
-print(min(li))
-li=np.asarray(li)
-d = np.unique(li, return_counts=True)
-print(d)
+# print(min(li))
+# li=np.asarray(li)
+# d = np.unique(li, return_counts=True)
+# print(d)
